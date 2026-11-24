@@ -1,0 +1,1194 @@
+{
+  "title": "微积分三份试卷题库",
+  "equation_format": "latex_inline_dollar_delimiters",
+  "document_count": 3,
+  "question_count": 60,
+  "documents": [
+    {
+      "id": 1,
+      "title": "模块二自测题",
+      "source": "考试系统_模块二自测题.docx",
+      "original_pdf": "考试系统.pdf",
+      "question_count": 16,
+      "sections": [
+        {
+          "title": "单项选择题",
+          "questions": [
+            {
+              "id": 1,
+              "type": "single_choice",
+              "points": 1,
+              "question": "某产品总成本 $C(q)=q^3-6q^2+15q+40$（万元），$q$ 为产量（百台）。当 $q=4$ 时，下列说法正确的是____",
+              "options": {
+                "A": "边际成本 15 小于平均成本 17，平均成本仍在下降",
+                "B": "边际成本 15 小于平均成本 17，平均成本正在上升",
+                "C": "边际成本 17 大于平均成本 15，平均成本仍在下降",
+                "D": "边际成本 68 大于平均成本 17，平均成本仍在下降"
+              },
+              "answer": "A"
+            },
+            {
+              "id": 2,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\lim_{x\\to 1}\\frac{\\ln x}{x-1}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$0$",
+                "B": "$e$",
+                "C": "$-1$",
+                "D": "$1$"
+              },
+              "answer": "D"
+            },
+            {
+              "id": 3,
+              "type": "single_choice",
+              "points": 1,
+              "question": "曲线 $y=x^3-3x^2$ 的拐点是____",
+              "options": {
+                "A": "$(0,0)$",
+                "B": "$(2,-4)$",
+                "C": "$(1,-2)$",
+                "D": "$(2,0)$"
+              },
+              "answer": "C"
+            },
+            {
+              "id": 4,
+              "type": "single_choice",
+              "points": 1,
+              "question": "函数 $y=x^3-3x$ 的单调增加区间是____",
+              "options": {
+                "A": "$(-1,1)$",
+                "B": "$(-\\infty ,-1)$ 与 $(1,+\\infty )$",
+                "C": "$(-\\infty ,1)$ 与 $(1,+\\infty )$",
+                "D": "$(-\\infty ,+\\infty )$"
+              },
+              "answer": "B"
+            },
+            {
+              "id": 5,
+              "type": "single_choice",
+              "points": 1,
+              "question": "关于函数的极值点与驻点，下列结论正确的是____",
+              "options": {
+                "A": "函数的驻点一定是极值点",
+                "B": "可导函数的极值点一定是它的驻点",
+                "C": "函数的最值点一定是极值点",
+                "D": "函数的极值点一定是最值点"
+              },
+              "answer": "B"
+            },
+            {
+              "id": 6,
+              "type": "single_choice",
+              "points": 1,
+              "question": "曲线 $y=x^3$ 在点 $(1,1)$ 处的切线斜率为____",
+              "options": {
+                "A": "$3$",
+                "B": "$1$",
+                "C": "$0$",
+                "D": "$\\frac{1}{3}$"
+              },
+              "answer": "A"
+            },
+            {
+              "id": 7,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\mathrm{d}(\\sin 2x)=\\underline{\\qquad}$",
+              "options": {
+                "A": "$2\\cos 2x\\,dx$",
+                "B": "$\\cos 2x\\,dx$",
+                "C": "$2\\sin 2x\\,dx$",
+                "D": "$-2\\cos 2x\\,dx$"
+              },
+              "answer": "A"
+            },
+            {
+              "id": 8,
+              "type": "single_choice",
+              "points": 1,
+              "question": "由方程 $y+\\sin y=x$ 确定的隐函数 $y=y(x)$，则 $y'=\\underline{\\qquad}$",
+              "options": {
+                "A": "$1+\\cos y$",
+                "B": "$\\frac{1}{1-\\cos y}$",
+                "C": "$-\\frac{1}{1+\\cos y}$",
+                "D": "$\\frac{1}{1+\\cos y}$"
+              },
+              "answer": "D"
+            },
+            {
+              "id": 9,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$y=e^{2x}$，则 $y''=\\underline{\\qquad}$",
+              "options": {
+                "A": "$2e^{2x}$",
+                "B": "$e^{2x}$",
+                "C": "$8e^{2x}$",
+                "D": "$4e^{2x}$"
+              },
+              "answer": "D"
+            },
+            {
+              "id": 10,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$y=x^2e^x$，则 $y'=\\underline{\\qquad}$",
+              "options": {
+                "A": "$2xe^x$",
+                "B": "$x^2e^x$",
+                "C": "$xe^x(x-2)$",
+                "D": "$xe^x(x+2)$"
+              },
+              "answer": "D"
+            },
+            {
+              "id": 11,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$y=\\sin(2x+1)$，则 $y'=\\underline{\\qquad}$",
+              "options": {
+                "A": "$\\cos(2x+1)$",
+                "B": "$-2\\cos(2x+1)$",
+                "C": "$2\\cos(2x+1)$",
+                "D": "$2\\sin(2x+1)$"
+              },
+              "answer": "C"
+            },
+            {
+              "id": 12,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$y=\\ln x+\\tan x$，则 $y'=\\underline{\\qquad}$",
+              "options": {
+                "A": "$\\frac{1}{x}+\\csc^2 x$",
+                "B": "$x+\\sec^2 x$",
+                "C": "$\\frac{1}{x}+\\sec^2 x$",
+                "D": "$\\frac{1}{x}-\\sec^2 x$"
+              },
+              "answer": "C"
+            },
+            {
+              "id": 13,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$y=x^4+2^x$，则 $y'=\\underline{\\qquad}$",
+              "options": {
+                "A": "$4x^3+2^x$",
+                "B": "$4x^3+x\\cdot 2^{x-1}$",
+                "C": "$4x^3+2^x\\ln 2$",
+                "D": "$x^4+2^x\\ln 2$"
+              },
+              "answer": "C"
+            },
+            {
+              "id": 14,
+              "type": "single_choice",
+              "points": 1,
+              "question": "关于函数在某点的可导性与连续性，下列结论正确的是____",
+              "options": {
+                "A": "函数在某点连续，则在该点必可导",
+                "B": "函数在某点可导，则在该点必连续；反之不成立",
+                "C": "函数在某点可导与是否连续没有关系",
+                "D": "函数在某点不连续，也可能在该点可导"
+              },
+              "answer": "B"
+            },
+            {
+              "id": 15,
+              "type": "single_choice",
+              "points": 1,
+              "question": "设 $f'(1)=3$，则 $\\lim_{\\Delta x\\to 0}\\frac{f(1-2\\Delta x)-f(1)}{\\Delta x}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$6$",
+                "B": "$-6$",
+                "C": "$3$",
+                "D": "$-3$"
+              },
+              "answer": "B"
+            },
+            {
+              "id": 16,
+              "type": "single_choice",
+              "points": 1,
+              "question": "设 $f(x)=x^2$，按导数定义 $f'(1)=\\underline{\\qquad}$",
+              "options": {
+                "A": "$2$",
+                "B": "$1$",
+                "C": "$0$",
+                "D": "$2x$"
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ],
+      "total_points": 16
+    },
+    {
+      "id": 2,
+      "title": "模块一自测题",
+      "source": "考试系统1_模块一自测题.docx",
+      "original_pdf": "考试系统1.pdf",
+      "question_count": 12,
+      "sections": [
+        {
+          "title": "单项选择题",
+          "questions": [
+            {
+              "id": 1,
+              "type": "single_choice",
+              "points": 1,
+              "question": "在同一极限过程中，下列结论正确的是____",
+              "options": {
+                "A": "有界变量与无穷小量之积仍是无穷小量",
+                "B": "无穷大量的倒数仍是无穷大量",
+                "C": "两个无穷小量之商仍是无穷小量",
+                "D": "无穷小量是一个很小的正数"
+              },
+              "answer": "A"
+            },
+            {
+              "id": 2,
+              "type": "single_choice",
+              "points": 1,
+              "question": "函数 $f(x)=\\frac{x^2-1}{x^2-3x+2}$ 的间断点，下列说法正确的是____",
+              "options": {
+                "A": "$x=1$ 是无穷间断点，$x=2$ 是可去型间断点",
+                "B": "$x=1$ 与 $x=2$ 都是可去型间断点",
+                "C": "$x=1$ 是可去型间断点，$x=2$ 是无穷间断点",
+                "D": "$x=1$ 与 $x=2$ 都是无穷间断点"
+              },
+              "answer": "C"
+            },
+            {
+              "id": 3,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\lim_{x\\to 0}\\frac{e^{2x}-1}{x}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$1$",
+                "B": "$0$",
+                "C": "$2$",
+                "D": "$e^2$"
+              },
+              "answer": "C"
+            },
+            {
+              "id": 4,
+              "type": "single_choice",
+              "points": 1,
+              "question": "当 $x\\to 0$ 时，与 $1-\\cos x$ 等价的无穷小量是____",
+              "options": {
+                "A": "$x$",
+                "B": "$\\frac{x^2}{2}$",
+                "C": "$x^2$",
+                "D": "$2x^2$"
+              },
+              "answer": "B"
+            },
+            {
+              "id": 5,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\lim_{x\\to \\infty }(1+\\frac{2}{x})^{3x}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$e^6$",
+                "B": "$e^3$",
+                "C": "$e^2$",
+                "D": "$e$"
+              },
+              "answer": "A"
+            },
+            {
+              "id": 6,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\lim_{x\\to 0}\\frac{\\sin 5x}{x}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$5$",
+                "B": "$1$",
+                "C": "$0$",
+                "D": "$\\infty $"
+              },
+              "answer": "A"
+            },
+            {
+              "id": 7,
+              "type": "single_choice",
+              "points": 1,
+              "question": "若 $\\lim_{x\\to \\infty }\\frac{ax^2+3x}{2x^2-1}=2$，则 $a=\\underline{\\qquad}$",
+              "options": {
+                "A": "$4$",
+                "B": "$2$",
+                "C": "$1$",
+                "D": "$-4$"
+              },
+              "answer": "A"
+            },
+            {
+              "id": 8,
+              "type": "single_choice",
+              "points": 1,
+              "question": "若 $\\lim_{x\\to 2}\\frac{x^2+ax+b}{x-2}=3$，则 $a=\\underline{\\qquad}$",
+              "options": {
+                "A": "$1$",
+                "B": "$-1$",
+                "C": "$-3$",
+                "D": "$-2$"
+              },
+              "answer": "B"
+            },
+            {
+              "id": 9,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\lim_{x\\to \\infty }\\frac{3x^3-2x+1}{2x^3+x^2}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$\\frac{2}{3}$",
+                "B": "$\\frac{3}{2}$",
+                "C": "$0$",
+                "D": "$1$"
+              },
+              "answer": "B"
+            },
+            {
+              "id": 10,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\lim_{x\\to 3}\\frac{x^2-9}{x-3}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$0$",
+                "B": "$3$",
+                "C": "$6$",
+                "D": "不存在"
+              },
+              "answer": "C"
+            },
+            {
+              "id": 11,
+              "type": "single_choice",
+              "points": 1,
+              "question": "$\\lim_{x\\to 2}\\frac{2x^2-x+1}{x^2+1}=\\underline{\\qquad}$",
+              "options": {
+                "A": "$1$",
+                "B": "$\\frac{7}{3}$",
+                "C": "$0$",
+                "D": "$\\frac{7}{5}$"
+              },
+              "answer": "D"
+            },
+            {
+              "id": 12,
+              "type": "single_choice",
+              "points": 1,
+              "question": "函数 $y=e^{\\sin 2x}$ 是由下列哪一组函数复合而成的？____",
+              "options": {
+                "A": "$y=e^u,u=2\\sin x$",
+                "B": "$y=\\sin u,u=e^{2x}$",
+                "C": "$y=e^{u^2},u=\\sin x$",
+                "D": "$y=e^u,u=\\sin v,v=2x$"
+              },
+              "answer": "D"
+            }
+          ]
+        }
+      ],
+      "total_points": 12
+    },
+    {
+      "id": 3,
+      "title": "练习卷二 导数与微分及其应用",
+      "source": "微积分练习卷二_导数微分及其应用_答案.docx",
+      "original_pdf": "2 微积分（I）练习卷二 导数、微分及其应用 答案(1).pdf",
+      "question_count": 32,
+      "sections": [
+        {
+          "title": "一、填空题",
+          "questions": [
+            {
+              "id": 1,
+              "type": "fill_in",
+              "answer": "$f'(0)$",
+              "question": "若 $f(x)$ 在 $x=0$ 处可导，且 $f(0)=0$，则 $\\lim_{x\\to 0}\\frac{f(x)}{x}=\\underline{\\qquad}$。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：$\\lim_{x\\to 0}\\frac{f(x)}{x}=\\lim_{x\\to 0}\\frac{f(x)-f(0)}{x-0}=f'(0)$。"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "type": "fill_in",
+              "answer": "$0$",
+              "question": "设 $f(x)=\\ln\\sqrt{1+x^2}$，则 $f'(0)=\\underline{\\qquad}$。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：$\\because  f(x)=\\ln\\sqrt{1+x^2}=\\frac{1}{2}\\ln(1+x^2)$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  f'(x)=\\frac{1}{2}\\cdot \\frac{1}{1+x^2}\\cdot (1+x^2)'=\\frac{x}{1+x^2}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  f'(0)=0$"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "type": "fill_in",
+              "answer": "$(1,0)$",
+              "question": "设曲线 $y=x^2+x-2$ 在点 $P$ 处的切线的斜率等于 3，则 $P$ 点的坐标为 ____。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：由导数的几何意义可得"
+                },
+                {
+                  "type": "text",
+                  "text": "$k=y'=(x^2+x-2)'=2x+1$"
+                },
+                {
+                  "type": "text",
+                  "text": "由题意可得：$k=2x+1=3$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  x=1$，故 $\\therefore  y=0$，所以 $P$ 的坐标为 $(1,0)$。"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "type": "fill_in",
+              "answer": "$0$",
+              "question": "设 $y=5x^3-6x^2+3x+2$，则 $y^{(4)}=\\underline{\\qquad}$。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：根据幂函数导数公式可得，$y^{(4)}=0$。"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "type": "fill_in",
+              "answer": "凹",
+              "question": "若 $x\\in I$ 时，恒有 $f''(x)>0$，则 $y=f(x)$ 在 $I$ 内是____弧。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：二阶正负定凹凸。"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "type": "fill_in",
+              "answer": "$-\\frac{1}{2}\\cos 2x+C$",
+              "question": "$\\sin 2x\\,dx=\\mathrm{d}(\\underline{\\qquad})$。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：$\\because  (\\cos 2x+C)'=-\\sin 2x\\cdot (2x)'=-2\\sin 2x$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  (-\\frac{1}{2}\\cos 2x+C)'=\\sin 2x$，故 $\\sin 2x\\,dx=\\mathrm{d}(-\\frac{1}{2}\\cos 2x+C)$。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "二、单项选择题",
+          "questions": [
+            {
+              "id": 7,
+              "type": "single_choice",
+              "answer": "C",
+              "options": {
+                "A": "$f(x)$ 在 $[a,b]$ 上的最大值一定是极大值",
+                "B": "$f(x)$ 在 $(a,b)$ 内的极值点一定是驻点",
+                "C": "若 $x_0$ 是 $f(x)$ 的驻点，$x_0$ 一定不是 $f(x)$ 的间断点",
+                "D": "若 $f'(x_0)=f''(x_0)=0$，$f(x_0)$ 一定不是极值"
+              },
+              "question": "下列说法正确的是（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：A 错，因为最值点有可能是端点，而极值点只能说区间内部点。"
+                },
+                {
+                  "type": "text",
+                  "text": "B 错，例如函数 $f(x)=|x|$ 在 $x=0$ 是极值点，但不可导。"
+                },
+                {
+                  "type": "text",
+                  "text": "C 对，因为驻点是一阶导数为零的点，可导一定是连续的。"
+                },
+                {
+                  "type": "text",
+                  "text": "D 错，例如 $f(x)=x^4$ 在 $f'(0)=f''(0)=0$，是极小值点。"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "type": "single_choice",
+              "answer": "B",
+              "options": {
+                "A": "$\\frac{1}{2}$",
+                "B": "$\\frac{1}{9}$",
+                "C": "$-\\frac{1}{4}$",
+                "D": "$-\\frac{1}{2}$"
+              },
+              "question": "设 $f(x)$ 在 $x=1$ 处可导，且 $\\lim_{\\Delta x\\to 0}\\frac{f(1+3\\Delta x)-f(1)}{\\Delta x}=\\frac{1}{3}$，则 $f'(1)=$（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：$\\because  \\lim_{\\Delta x\\to 0}\\frac{f(1+3\\Delta x)-f(1)}{3\\Delta x}=f'(1)$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  3f'(1)=\\frac{1}{3}\\text{，}\\therefore  f'(1)=\\frac{1}{9}$"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "type": "single_choice",
+              "answer": "C",
+              "options": {
+                "A": "高阶无穷小量",
+                "B": "低阶无穷小量",
+                "C": "同阶但不等价无穷小量",
+                "D": "等价无穷小量"
+              },
+              "question": "设 $f'(x_0)=-2$，则在 $x=x_0$ 处，当 $\\Delta x\\to 0$ 时，$\\Delta y$ 与 $\\Delta x$ 相比较是（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：$\\because  \\lim_{\\Delta x\\to 0}\\frac{\\Delta y}{\\Delta x}=f'(x_0)=-2$"
+                },
+                {
+                  "type": "text",
+                  "text": "所以，由无穷小比较可知 $\\Delta y$ 与 $\\Delta x$ 相比较是同阶但不等价无穷小量。"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "type": "single_choice",
+              "answer": "B",
+              "options": {
+                "A": "连续，不可导",
+                "B": "不连续，不可导",
+                "C": "连续，可导",
+                "D": "不连续，可导"
+              },
+              "question": "函数 $y=\\sin\\frac{1}{x}$ 在 $x=0$ 处（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：一元函数连续与可导的关系：可导一定连续，连续不一定可导，也就是说不连续一定不可导。题目中，函数 $y=\\sin\\frac{1}{x}$ 在 $x=0$ 处无定义，间断，所以不连续，也就不可导。"
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "type": "single_choice",
+              "answer": "B",
+              "options": {
+                "A": "$y''=2e^{2x-1}$",
+                "B": "$y''=4e^{2x-1}$",
+                "C": "$y''=2e^{2x}$",
+                "D": "$y''=4e^{2x}$"
+              },
+              "question": "设 $y=e^{2x-1}$，则 $y''=$（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析："
+                },
+                {
+                  "type": "text",
+                  "text": "$y'=(e^{2x-1})'=e^{2x-1}\\cdot (2x-1)'=2e^{2x-1}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$y''=(2e^{2x-1})''=2e^{2x-1}\\cdot (2x-1)'=4e^{2x-1}$"
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "type": "single_choice",
+              "answer": "C",
+              "options": {
+                "A": "导数即“微商”；",
+                "B": "微分是函数增量的线性主部；",
+                "C": "凡连续函数都是可微的；",
+                "D": "可导与可微是一致的。"
+              },
+              "question": "下列说法不正确的是（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：C 错，因为连续不一定可导，而可导与可微等价，所以连续也不一定可微。"
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "type": "single_choice",
+              "answer": "A",
+              "options": {
+                "A": "可导函数的极值点一定是驻点",
+                "B": "函数的驻点一定是极值点",
+                "C": "函数唯一的驻点一定是极值点",
+                "D": "函数的极值点一定是驻点"
+              },
+              "question": "下列结论中，（　）是正确的。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：例如函数 $f(x)=x^3$，在 $x=0$ 点是驻点，但不是极值点。并且，这个函数只有这一个驻点，所以 B、C 都错。"
+                },
+                {
+                  "type": "text",
+                  "text": "D 错，例如函数 $f(x)=|x|$ 在 $x=0$ 是极值点，但不可导。"
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "type": "single_choice",
+              "answer": "B",
+              "options": {
+                "A": "单调上升且为凸弧",
+                "B": "单调下降且为凹弧",
+                "C": "单调上升且为凹弧",
+                "D": "单调下降且为凸弧"
+              },
+              "question": "设函数 $f(x)$ 在区间 $I$ 内总有 $f'(x)<0$，$f''(x)>0$，则 $y=f(x)$ 在区间 $I$ 内（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：一阶正负定增减；二阶正负定凹凸。"
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "type": "single_choice",
+              "answer": "B",
+              "options": {
+                "A": "$xf'(-x^2)dx$",
+                "B": "$-2xf'(-x^2)dx$",
+                "C": "$2f'(-x^2)dx$",
+                "D": "$2xf'(-x^2)dx$"
+              },
+              "question": "设 $y=f(-x^2)$，则 $dy=$（　）。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解析：知识点为抽象的复合函数求导。"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\because  y'=f'(-x^2)\\cdot (-x^2)'=-2xf'(-x^2)$，$\\therefore  dy=-2xf'(-x^2)dx$"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "三、求下列函数的导数和微分",
+          "questions": [
+            {
+              "id": 16,
+              "type": "derivative_and_differential",
+              "question": "$y=e^x\\cos x-\\frac{1}{x}+\\ln 3$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$y'=e^x\\cos x+(-e^x\\sin x)-(-\\frac{1}{x^2})+0$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=e^x\\cos x-e^x\\sin x+\\frac{1}{x^2}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=(e^x\\cos x-e^x\\sin x+\\frac{1}{x^2})dx$"
+                }
+              ]
+            },
+            {
+              "id": 17,
+              "type": "derivative_and_differential",
+              "question": "$y=\\frac{1-x^2}{\\sqrt{x}}$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$\\because  y=\\frac{1-x^2}{\\sqrt{x}}=\\frac{1}{\\sqrt{x}}-\\frac{x^2}{\\sqrt{x}}=x^{-\\frac{1}{2}}-x^{\\frac{3}{2}}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  y'=-\\frac{1}{2}x^{-\\frac{3}{2}}-\\frac{3}{2}x^{\\frac{1}{2}}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  dy=(-\\frac{1}{2}x^{-\\frac{3}{2}}-\\frac{3}{2}x^{\\frac{1}{2}})dx$"
+                }
+              ]
+            },
+            {
+              "id": 18,
+              "type": "derivative_and_differential",
+              "question": "$y=x^5+5^x+5^5$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$y'=5x^4+5^x\\ln 5$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=(5x^4+5^x\\ln 5)dx$"
+                }
+              ]
+            },
+            {
+              "id": 19,
+              "type": "derivative_and_differential",
+              "question": "$y=\\cos x\\cdot \\ln(\\tan x)$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$y'=-\\sin x\\cdot \\ln(\\tan x)+\\cos x\\cdot \\frac{1}{\\tan x}(\\tan x)'$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=-\\sin x\\cdot \\ln(\\tan x)+\\frac{1}{\\sin x}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=(-\\sin x\\cdot \\ln(\\tan x)+\\frac{1}{\\sin x})dx$"
+                }
+              ]
+            },
+            {
+              "id": 20,
+              "type": "derivative_and_differential",
+              "question": "$y=\\sin^2 x^3$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$y'=2\\sin x^3\\cdot (\\sin x^3)'$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=2\\sin x^3\\cos x^3\\cdot (x^3)'$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=6x^2\\sin x^3\\cos x^3$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=6x^2\\sin x^3\\cos x^3\\,dx$"
+                }
+              ]
+            },
+            {
+              "id": 21,
+              "type": "derivative_and_differential",
+              "question": "$y=\\ln\\sqrt{x}+\\sqrt{\\ln x}$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$\\because  y=\\frac{1}{2}\\ln x+\\sqrt{\\ln x}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  y'=\\frac{1}{2x}+\\frac{1}{2}\\cdot \\frac{1}{\\sqrt{\\ln x}}(\\ln x)'$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=\\frac{1}{2x}(1+\\frac{1}{\\sqrt{\\ln x}})$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=\\frac{1}{2x}(1+\\frac{1}{\\sqrt{\\ln x}})dx$"
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "type": "derivative_and_differential",
+              "question": "$y=3e^{-x}\\cos 2x+\\sin\\frac{1}{2}$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$y'=3e^{-x}\\cdot (-x)'\\cos 2x+3e^{-x}(-\\sin 2x)\\cdot (2x)'$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=-3e^{-x}(\\cos 2x+2\\sin 2x)$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=-3e^{-x}(\\cos 2x+2\\sin 2x)dx$"
+                }
+              ]
+            },
+            {
+              "id": 23,
+              "type": "derivative_and_differential",
+              "question": "$y=\\frac{1+\\cos 2x}{1-\\cos 2x}$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$\\because  y=\\frac{1+\\cos 2x}{1-\\cos 2x}=\\frac{2\\cos^2 x}{2\\sin^2 x}=\\cot^2 x$"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore  y'=2\\cot x\\cdot (\\cot x)'=-2\\cot x\\csc^2 x$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=-2\\cot x\\csc^2 x\\,dx$"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "四、求下列函数的极限",
+          "questions": [
+            {
+              "id": 24,
+              "type": "limit",
+              "question": "$\\lim_{x\\to 0}\\frac{e^{-x}-e^x}{\\sin x}$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解（洛必达法则）：$\\lim_{x\\to 0}\\frac{e^{-x}-e^x}{\\sin x}=\\lim_{x\\to 0}\\frac{-e^{-x}-e^x}{\\cos x}=-2$"
+                }
+              ]
+            },
+            {
+              "id": 25,
+              "type": "limit",
+              "question": "$\\lim_{x\\to 0}\\frac{x-\\sin x}{x^3}$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解（洛必达法则）：$\\lim_{x\\to 0}\\frac{x-\\sin x}{x^3}=\\lim_{x\\to 0}\\frac{1-\\cos x}{3x^2}=\\lim_{x\\to 0}\\frac{\\sin x}{6x}=\\frac{1}{6}$"
+                }
+              ]
+            },
+            {
+              "id": 26,
+              "type": "limit",
+              "question": "$\\lim_{x\\to 1}(\\frac{1}{x-1}-\\frac{1}{\\ln x})$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解（洛必达法则）："
+                },
+                {
+                  "type": "text",
+                  "text": "$\\lim_{x\\to 1}(\\frac{1}{x-1}-\\frac{1}{\\ln x})=\\lim_{x\\to 1}\\frac{\\ln x-x+1}{(x-1)\\ln x}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=\\lim_{x\\to 1}\\frac{1-x}{x\\ln x+x-1}=\\lim_{x\\to 1}\\frac{-1}{\\ln x+2}=-\\frac{1}{2}$"
+                }
+              ]
+            },
+            {
+              "id": 27,
+              "type": "limit",
+              "question": "$\\lim_{x\\to 0}(1+x^2)^{\\frac{1}{x}}$",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：$\\lim_{x\\to 0}(1+x^2)^{\\frac{1}{x}}=\\lim_{x\\to 0}(1+x^2)^{\\frac{1}{x^2}\\cdot x}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$=\\lim_{x\\to 0}[(1+x^2)^{\\frac{1}{x^2}}]^x=\\lim_{x\\to 0}e^x=1$"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "五、计算题",
+          "questions": [
+            {
+              "id": 28,
+              "type": "calculation",
+              "question": "设函数 $y=f(x)$ 由方程 $e^y+xy-e=0$ 所确定，求 $y'(0)$ 和 $dy$。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：方程两边同时对 $x$ 求导，得"
+                },
+                {
+                  "type": "text",
+                  "text": "$e^y\\cdot y'+(y+xy')=0$"
+                },
+                {
+                  "type": "text",
+                  "text": "整理得：$y'=-\\frac{y}{x+e^y}$"
+                },
+                {
+                  "type": "text",
+                  "text": "因为当 $x=0$ 时，$y=1$，所以"
+                },
+                {
+                  "type": "text",
+                  "text": "$y'(0)=-\\frac{1}{0+e}=-\\frac{1}{e}$"
+                },
+                {
+                  "type": "text",
+                  "text": "$dy=-\\frac{y}{x+e^y}dx$"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "六、解答下列各题",
+          "questions": [
+            {
+              "id": 29,
+              "type": "worked_problem",
+              "points": 6,
+              "question": "列表求函数 $y=x^3-3x^2-9x+5$ 的单调区间、极值点与极值。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：（1）$D=(-\\infty ,+\\infty )$；"
+                },
+                {
+                  "type": "text",
+                  "text": "（2）$y'=3x^2-6x-9=3(x+1)(x-3)$；"
+                },
+                {
+                  "type": "text",
+                  "text": "（3）令 $y'=0$，得驻点：$x_1=-1$，$x_2=3$；"
+                },
+                {
+                  "type": "text",
+                  "text": "（4）列表讨论："
+                },
+                {
+                  "type": "table",
+                  "rows": [
+                    [
+                      "$x$",
+                      "$(-\\infty ,-1)$",
+                      "$-1$",
+                      "$(-1,3)$",
+                      "$3$",
+                      "$(3,+\\infty )$"
+                    ],
+                    [
+                      "$y'$",
+                      "$+$",
+                      "$0$",
+                      "$-$",
+                      "$0$",
+                      "$+$"
+                    ],
+                    [
+                      "$y$",
+                      "↗",
+                      "极大值",
+                      "↘",
+                      "极小值",
+                      "↗"
+                    ]
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "故函数单调增区间为：$(-\\infty ,-1)$，$(3,+\\infty )$；"
+                },
+                {
+                  "type": "text",
+                  "text": "单调减区间为：$[-1,3]$。"
+                },
+                {
+                  "type": "text",
+                  "text": "函数在 $x=-1$ 处取得极大值，极大值为 $y_{x=-1}=(-1)^3-3(-1)^2-9(-1)+5=10$。"
+                },
+                {
+                  "type": "text",
+                  "text": "在 $x=3$ 处取得极小值，极小值为 $y_{x=3}=3^3-3\\cdot 3^2-9\\cdot 3+5=-22$。"
+                }
+              ]
+            },
+            {
+              "id": 30,
+              "type": "worked_problem",
+              "points": 6,
+              "question": "列表求曲线 $y=3x^5-10x^4+10x^3+1$ 的凹凸区间与拐点。",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：（1）$D=(-\\infty ,+\\infty )$；"
+                },
+                {
+                  "type": "text",
+                  "text": "（2）$y'=15x^4-40x^3+30x^2$，"
+                },
+                {
+                  "type": "text",
+                  "text": "$y''=60x^3-120x^2+60x=60x(x-1)^2$"
+                },
+                {
+                  "type": "text",
+                  "text": "（3）令 $y''=0$，得 $x_1=0$，$x_2=1$；"
+                },
+                {
+                  "type": "text",
+                  "text": "（4）列表讨论："
+                },
+                {
+                  "type": "table",
+                  "rows": [
+                    [
+                      "$x$",
+                      "$(-\\infty ,0)$",
+                      "$0$",
+                      "$(0,1)$",
+                      "$1$",
+                      "$(1,+\\infty )$"
+                    ],
+                    [
+                      "$y''$",
+                      "$-$",
+                      "$0$",
+                      "$+$",
+                      "$0$",
+                      "$+$"
+                    ],
+                    [
+                      "$y$",
+                      "凸",
+                      "拐点",
+                      "凹",
+                      "不是拐点",
+                      "凹"
+                    ]
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "故：曲线的凸区间为 $(-\\infty ,0)$，凹区间为 $(0,+\\infty )$；"
+                },
+                {
+                  "type": "text",
+                  "text": "由 $y_{x=0}=3\\times 0^5-10\\times 0^4+10\\times 0^3+1=1$，得曲线的拐点为 $(0,1)$。"
+                }
+              ]
+            }
+          ],
+          "instructions": "本大题共 2 个小题，每小题 6 分，共 12 分。"
+        },
+        {
+          "title": "七、应用题",
+          "questions": [
+            {
+              "id": 31,
+              "type": "application",
+              "question": "假设某企业生产某种产品的总成本 $C$（万元）与产量 $q$（万件）之间的函数关系式为\n$C(q)=0.02q^3-0.4q^2+6q+100$（万元）\n问：当这种产品的产量 $q=20$（万件）时，从降低平均成本的角度来看，是否可以继续提高产量？",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：当产量 $q=20$（万件）时，总成本为"
+                },
+                {
+                  "type": "text",
+                  "text": "（1）$C(20)=0.02\\times 20^3-0.4\\times 20^2+6\\times 20+100=220$（万元）。"
+                },
+                {
+                  "type": "text",
+                  "text": "（2）平均成本 $\\bar{C}(20)=\\frac{C(20)}{20}=\\frac{220}{20}=11$（万元/万件）=11（元/件）。"
+                },
+                {
+                  "type": "text",
+                  "text": "（3）边际成本 $C'(q)=0.06q^2-0.8q+6$。"
+                },
+                {
+                  "type": "text",
+                  "text": "（4）生产 20 万件产品时的边际成本为 $C'(20)=0.06\\times 20^2-0.8\\times 20+6=14$（元/件）。"
+                },
+                {
+                  "type": "text",
+                  "text": "所以，在生产水平为 20 万件的基础上，再多生产 1 件产品，总成本将增加 14 元，比 11 元/件的平均成本要高。因此，单纯从降低平均成本的角度来看，应该降低产品的生产产量。"
+                }
+              ]
+            },
+            {
+              "id": 32,
+              "type": "application",
+              "question": "已知某商品的价格 $P$ 与需求量 $x$ 的关系为\n$P=10-\\frac{x}{5}$，\n（1）求需求量为 20 和 30 时的总收益及边际收益；\n（2）产量 $x$ 为多少时总收益最大？",
+              "solution": [
+                {
+                  "type": "text",
+                  "text": "解：（1）$\\because  P=10-\\frac{x}{5}$，$\\therefore $ 收益函数 $R(x)=px=(10-\\frac{x}{5})x=-\\frac{1}{5}x^2+10x$。"
+                },
+                {
+                  "type": "text",
+                  "text": "$\\therefore $ 边际收益函数 $R'(x)=-\\frac{2}{5}x+10$。"
+                },
+                {
+                  "type": "text",
+                  "text": "需求量为 20 时的总收益 $R(20)=-\\frac{1}{5}\\times 20^2+10\\times 20=120$。"
+                },
+                {
+                  "type": "text",
+                  "text": "边际收益 $R'(20)=-\\frac{2}{5}\\times 20+10=2$。"
+                },
+                {
+                  "type": "text",
+                  "text": "需求量为 30 时的总收益 $R(30)=-\\frac{1}{5}\\times 30^2+10\\times 30=120$。"
+                },
+                {
+                  "type": "text",
+                  "text": "边际收益 $R'(30)=-\\frac{2}{5}\\times 30+10=-2$。"
+                },
+                {
+                  "type": "text",
+                  "text": "（2）令 $R'(x)=-\\frac{2}{5}x+10=0$，得 $x=25$。"
+                },
+                {
+                  "type": "text",
+                  "text": "故总收益函数驻点唯一，又由实际问题可知最大值存在，所以此唯一驻点是最大值点。"
+                },
+                {
+                  "type": "text",
+                  "text": "即当产量 $x=25$ 时，总收益最大，最大收益为 125。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "subtitle": "第二模块　答案与解析",
+      "closing_note": "总结：通过做本套测验试卷，哪些知识点你已经掌握？还有哪些知识点没有掌握？"
+    }
+  ]
+}
